@@ -66,11 +66,6 @@ local.properties
 # operating system
 ##################
 
-# Linux
-*~
-# KDE
-.directory
-.AppleDouble
 
 # OSX
 .DS_Store
@@ -78,12 +73,3 @@ local.properties
 *~.nib
 # Thumbnails
 ._*
-
-# Windows
-# Image file caches
-Thumbs.db
-# Folder config file
-Desktop.ini
-
-# Android
-.csettings
